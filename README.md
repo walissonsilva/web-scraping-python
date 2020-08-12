@@ -2,6 +2,8 @@
 
 Esse repositório contém arquivos (slides, códigos, exemplos) desenvolvidos durante uma série de vídeos do meu canal do YouTube, a qual pode ser acessada [nesse link](https://www.youtube.com/watch?v=42sTntMEn6o&list=PLg3ZPsW_sghSkRacynznQeEs-vminyTQk).
 
+![Imagem de Capa](Imagens/web-scraping-com-python.png)
+
 ## Conteúdo
 
 Essa série de vídeos contém o seguinte conteúdo:
